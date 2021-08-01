@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--EXPORTED BY TOOL, DON'T MODIFY IT!-->
+<!--Source File: FirstBT.xml-->
+<behavior name="FirstBT" agenttype="monster_id1" version="5">
+  <node class="Action" id="0">
+    <property Method="Self.monster_id1::SayHello()" />
+    <property ResultOption="BT_SUCCESS" />
+  </node>
+</behavior>

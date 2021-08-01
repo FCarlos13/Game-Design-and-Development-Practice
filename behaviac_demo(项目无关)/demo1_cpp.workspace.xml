@@ -2,9 +2,12 @@
 <workspace name="demo1_cpp" folder="behaviors" export="exported" language="cpp" version="3">
   <export>
     <cpp>
-      <isexported>False</isexported>
+      <isexported>True</isexported>
       <exportfilecount>1</exportfilecount>
       <folder>../exported</folder>
     </cpp>
+    <xml>
+      <isexported>True</isexported>
+    </xml>
   </export>
 </workspace>
